@@ -1,0 +1,1 @@
+webpackHotUpdate(0,[function(o,c){console.log(123)}]);

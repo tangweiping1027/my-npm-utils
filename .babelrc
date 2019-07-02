@@ -1,0 +1,6 @@
+{
+  //使用何种转换语法
+  "presets": ["@babel/preset-env"],
+  //插件配置
+  "plugins": ["@babel/plugin-transform-runtime"]
+}
