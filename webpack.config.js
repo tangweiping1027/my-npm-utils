@@ -3,10 +3,12 @@ var webpack = require('webpack')
 const htmlWebpackPlugin = require('html-webpack-plugin')
 
 module.exports = {
-  entry: path.resolve(__dirname, './src/main.js'),
+  entry: path.resolve(__dirname, './lib/index.js'),
+  // entry: path.resolve(__dirname, './src/main.js'),
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js'
+    // filename: 'bundle.js',
+    filename: 'index.js'
   },
   module: {
     rules: [
