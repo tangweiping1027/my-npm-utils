@@ -1,6 +1,6 @@
 {
   "name": "my-npm-utils",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "发布一个npm包，构建自己的utils库",
   "main": "dist/index.js",
   "files": [
@@ -12,10 +12,10 @@
     "my-npm-utils"
   ],
   "private": false,
-  "homepage": "https://github.com/tangweiping1027/utils.git",
+  "homepage": "https://github.com/tangweiping1027/my-npm-utils.git",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tangweiping1027/utils.git"
+    "url": "git+https://github.com/tangweiping1027/my-npm-utils.git"
   },
   "dependencies": {
     "@babel/runtime": "^7.4.5",
